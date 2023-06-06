@@ -1,6 +1,6 @@
 ---
 title: Class Selectors
-module: 7
+module: 4
 jotted: true
 ---
 

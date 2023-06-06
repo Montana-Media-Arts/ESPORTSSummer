@@ -1,6 +1,6 @@
 ---
 title: Adding CSS to HTML
-module: 7
+module: 4
 jotted: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Create a page
-module: 6
+module: 4
 jotted: true
 ---
 

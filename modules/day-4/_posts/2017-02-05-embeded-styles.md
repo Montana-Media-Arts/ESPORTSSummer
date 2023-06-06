@@ -1,6 +1,6 @@
 ---
 title: Embedded Styles
-module: 7
+module: 4
 jotted: true
 ---
 
