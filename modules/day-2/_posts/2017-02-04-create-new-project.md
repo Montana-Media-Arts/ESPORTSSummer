@@ -1,6 +1,6 @@
 ---
 title: Create new project
-module: 4
+module: 2
 jotted: true
 ---
 
