@@ -4,7 +4,7 @@ published: true
 ---
 
 
-This supplemental website accompanies the in-person summer cap offered by S.E.A. Change in partnership with [The School of Media Arts, University of Montana](http://www.umt.edu/mediaarts/).
+This supplemental website accompanies the in-person summer cap offered by UM Esports in partnership with [The School of Media Arts, University of Montana](http://www.umt.edu/mediaarts/).
 
 ### Start the Camp!
 
