@@ -24,5 +24,4 @@ module: 2
 <div id="ToDo" class="tabcontent">
 <p>Write down some notes on challenges. You will turn in your thoughts on what challenges you have overcome.</p>
 
-<p>Now, let's move onto the programming part of this week.  Let's begin with Scratch.</p>
 </div>
